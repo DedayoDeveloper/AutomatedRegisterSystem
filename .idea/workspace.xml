@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad3e04b5-dad3-4ba3-b125-392b8807e513" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/attendance/AttendanceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/attendance/AttendanceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/attendance/MailConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/attendance/MailConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/digital/attendance/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/digital/attendance/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1W1LJEG0qW7IYGlZAeBA7Vk0UUf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tradenotification-HonestyTNS" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.digital.attendance.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="AttendanceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="attendance" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.digital.attendance.AttendanceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad3e04b5-dad3-4ba3-b125-392b8807e513" name="Default Changelist" comment="" />
+      <created>1578312080942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578312080942</updated>
+      <workItem from="1578312083813" duration="19923000" />
+      <workItem from="1578473784351" duration="590000" />
+      <workItem from="1578478397821" duration="14209000" />
+      <workItem from="1578832434107" duration="574000" />
+      <workItem from="1578904478618" duration="2827000" />
+      <workItem from="1579017461898" duration="2501000" />
+      <workItem from="1579292843151" duration="3325000" />
+      <workItem from="1579331747620" duration="8264000" />
+      <workItem from="1579509544515" duration="4928000" />
+      <workItem from="1579597929951" duration="1211000" />
+      <workItem from="1579614659504" duration="568000" />
+      <workItem from="1579719831955" duration="1266000" />
+      <workItem from="1579779191667" duration="598000" />
+      <workItem from="1579853278912" duration="2127000" />
+      <workItem from="1579875646270" duration="1410000" />
+      <workItem from="1579959885680" duration="2607000" />
+      <workItem from="1580283425749" duration="19192000" />
+      <workItem from="1580394303475" duration="730000" />
+      <workItem from="1580457633529" duration="10867000" />
+      <workItem from="1580675163595" duration="1851000" />
+      <workItem from="1580723087592" duration="1087000" />
+      <workItem from="1580981122868" duration="2504000" />
+      <workItem from="1581262354727" duration="5798000" />
+      <workItem from="1581325132729" duration="6396000" />
+      <workItem from="1581497583895" duration="2755000" />
+      <workItem from="1581583279896" duration="17629000" />
+      <workItem from="1581774766897" duration="2067000" />
+      <workItem from="1581868021024" duration="1977000" />
+      <workItem from="1581922884401" duration="28711000" />
+      <workItem from="1582267798438" duration="4615000" />
+      <workItem from="1582298983258" duration="3346000" />
+      <workItem from="1582306055027" duration="13709000" />
+      <workItem from="1582532658651" duration="7066000" />
+      <workItem from="1582616635509" duration="12401000" />
+      <workItem from="1582704811772" duration="41071000" />
+      <workItem from="1582877139775" duration="27664000" />
+      <workItem from="1583140897156" duration="13483000" />
+      <workItem from="1583330971128" duration="10141000" />
+      <workItem from="1583486915832" duration="1852000" />
+      <workItem from="1583741547855" duration="1085000" />
+      <workItem from="1583913576827" duration="752000" />
+      <workItem from="1584215115105" duration="4722000" />
+      <workItem from="1584285197660" duration="605000" />
+      <workItem from="1584345826634" duration="1214000" />
+      <workItem from="1584429670431" duration="4141000" />
+      <workItem from="1584522343274" duration="3621000" />
+      <workItem from="1584532344080" duration="39464000" />
+      <workItem from="1585105430507" duration="2574000" />
+      <workItem from="1585394204230" duration="5142000" />
+      <workItem from="1585548809509" duration="593000" />
+      <workItem from="1585644180240" duration="589000" />
+      <workItem from="1585772694655" duration="592000" />
+      <workItem from="1585909105235" duration="1159000" />
+      <workItem from="1586468328767" duration="2155000" />
+      <workItem from="1586597456539" duration="1225000" />
+      <workItem from="1586615371146" duration="43000" />
+      <workItem from="1587512806624" duration="2135000" />
+      <workItem from="1587555548129" duration="4764000" />
+      <workItem from="1587723290432" duration="6225000" />
+      <workItem from="1587800002937" duration="4234000" />
+      <workItem from="1587927457172" duration="381000" />
+      <workItem from="1587979480138" duration="10393000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/digital/attendance/mail/MailServiceImpl.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

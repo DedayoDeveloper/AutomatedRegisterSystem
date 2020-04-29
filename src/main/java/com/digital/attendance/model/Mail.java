@@ -1,0 +1,99 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package com.digital.attendance.model;
+
+import java.util.List;
+
+/**
+ *
+ * @author oreoluwa
+ */
+public class Mail {
+    
+     private String mailFrom;
+ 
+    private String mailTo;
+ 
+    private String mailCc;
+ 
+    private String mailBcc;
+ 
+    private String mailSubject;
+ 
+    private String mailContent;
+ 
+    private String contentType;
+
+    private List<MapUserLocation> emails;
+
+    public List<MapUserLocation> getEmails() {
+        return emails;
+    }
+
+    public void setEmails(List<MapUserLocation> emails) {
+        this.emails = emails;
+    }
+
+    public String getMailFrom() {
+        return mailFrom;
+    }
+
+    public void setMailFrom(String mailFrom) {
+        this.mailFrom = mailFrom;
+    }
+
+    public String getMailTo() {
+        return mailTo;
+    }
+
+    public void setMailTo(String mailTo) {
+        this.mailTo = mailTo;
+    }
+
+    public String getMailCc() {
+        return mailCc;
+    }
+
+    public void setMailCc(String mailCc) {
+        this.mailCc = mailCc;
+    }
+
+    public String getMailBcc() {
+        return mailBcc;
+    }
+
+    public void setMailBcc(String mailBcc) {
+        this.mailBcc = mailBcc;
+    }
+
+    public String getMailSubject() {
+        return mailSubject;
+    }
+
+    public void setMailSubject(String mailSubject) {
+        this.mailSubject = mailSubject;
+    }
+
+    public String getMailContent() {
+        return mailContent;
+    }
+
+    public void setMailContent(String mailContent) {
+        this.mailContent = mailContent;
+    }
+
+    public String getContentType() {
+        return contentType;
+    }
+
+    public void setContentType(String contentType) {
+        this.contentType = contentType;
+    }
+    
+    
+    
+    
+}
